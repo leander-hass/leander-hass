@@ -6,7 +6,7 @@ I speak English and German fluently.
 ### HTML
 I started programming my first Webpage in 7th Grade in School.
 
-Since then I rapidly caught up with HTML5 and I'm staying up to Date with the newest Develolments.
+Since then I rapidly caught up with HTML5 and I'm staying up to Date with the newest Developments.
 
 ### CSS
 When you are Developing a Website CSS is a Must Have. 
