@@ -1,27 +1,25 @@
-# About me
-Hi, I am Leander Hass. I'm a Developer from Magdeburg, Germany.
-I speak English and German fluently.
+## About me
+Hi! I'm Leander Hass.
 
-## Coding-Languages
-### HTML
-I started programming my first Webpage in 7th Grade in School.
+I'm a developer and part of the Build_42 team.
 
-Since then I rapidly caught up with HTML5 and I'm staying up to Date with the newest Developments.
+| Type       | Info about me                           |
+| ---------- | --------------------------------------- |
+| Location   | Magdeburg, Germany                      |
+| Languages  | English German                          |
+| Skills     | PHP, HTML, CSS, SCSS, JS, Python, MySQL |
+| Frameworks | Laravel, TailwindCSS, VueJS             |
 
-### CSS
-When you are Developing a Website CSS is a Must Have. 
+I program websites since 2018. Since then I gathered a lot of experience-points with HTML, CSS, JavaScript and PHP.
 
-I'm interested in newest Hacks and Technologies and love getting creative with it. I of course use CSS3.
+Since 2019 I work as a developer for the systems and the website of my school, the Werner-von-Siemens Gymnasium Magdeburg. My specialty is account- and database-management. There I work with MySQL, Laravel and VueJS.
 
-### PHP
-The last Language I started learning in School was PHP.
+In my free time I develop Build_42's Web-Framework, which is for example used in this website.
 
-I have some Experience with MySQL but I am more interested in Developing Backend-Frameworks, APIs and useful Tools like Compilers and Compressors.
+I also learned Python for some diy-projects to control or read out electric components. Now I use it to automate repetetive workloads.
 
-### JavaScript
-In JS I am experienced but I am still learning some Advanced Concepts. As soon as there is a Need for a Feature I am able to find ways and Methods.
-Therefore I am staying up to Date with the current Standard of ECMA6.
+I always like to learn new technologies for new projects and get used to existing systems.
 
-### Python
-I started using Python to program Sofwtare-Tools for myself and to interface Hardware-Components on my Raspberry Pi.
-Therefore I am not a Pro but I am able to implement everything I want.
+## GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
