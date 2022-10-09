@@ -22,4 +22,6 @@ I always like to learn new technologies for new projects and get used to existin
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leander-hass&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true&hide=stars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Leander's GitHub stats](https://github-readme-stats.vercel.app/api?username=leander-hass&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true&hide=stars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Leander's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leander-hass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
